@@ -2,7 +2,7 @@ apiVersion: v1
 kind: Pod
 metadata:
   name: echobot
-  namespace: gitops-series
+  namespace: flux-system
   labels:
     app: echobot
 spec:
