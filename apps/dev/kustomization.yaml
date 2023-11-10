@@ -6,3 +6,5 @@ resources:
     - ./podinfo/namespace.yaml
     - ./podinfo/deployment.yaml
     - ./podinfo/service.yaml
+    - ./gitops-series/pod.yaml
+    - ./gitops-series/namespace.yaml
